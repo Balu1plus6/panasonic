@@ -3,8 +3,8 @@ pipeline {
     environment {
         AWS_ACCOUNT_ID="007242146314"
         AWS_DEFAULT_REGION="us-east-1"
-        IMAGE_REPO_NAME="lenovo1"
-        REPOSITORY_URI="007242146314.dkr.ecr.us-east-1.amazonaws.com/lenovo1"
+        IMAGE_REPO_NAME="panasonic"
+        REPOSITORY_URI="007242146314.dkr.ecr.us-east-1.amazonaws.com/panasonic"
     }
 
     stages {
